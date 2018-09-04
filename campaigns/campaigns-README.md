@@ -7,6 +7,8 @@
 | utm_source  | 流量來源  |  www.kejyun.com  |
 | utm_medium  | 媒介 | recommend（推薦文章）、bottom_banner（置底 Banner）、top_banner（置頂 Banner）|
 | utm_campaign  | 宣傳活動 | 20181111（2018 雙棍節）、2018_moon_festival（2018 中秋節）|
+| utm_term  | 付費關鍵字 | 付費關鍵字廣告活動添加代碼 |
+| utm_content  | 內容文字 | 同一頁，但文字敘述不同，可以用此識別何種文字帶來的流量 |
 
 ## UTM 網址產生器
 * [網址產生器 - Analytics (分析)說明](https://support.google.com/analytics/answer/1033867?hl=zh-Hant)
@@ -16,4 +18,5 @@
 
 
 ## 參考資料
+* [自訂廣告活動 - Analytics (分析)說明](https://support.google.com/analytics/answer/1033863?hl=zh-Hant)
 * [UTM 完整教學｜UTM 是什麼？Google Analytics 的追蹤功能 – HSIENBLOG ‒ 電商隨筆](https://hsienblog.com/2017/08/15/utm-tag/)
