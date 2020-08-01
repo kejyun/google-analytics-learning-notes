@@ -35,3 +35,5 @@ gtag('config', 'UA-XXXXXXXXXX', {
 * [自訂維度和指標 - Analytics (分析)說明](https://support.google.com/analytics/answer/2709828?hl=zh-Hant)
 * [如何知道網站各分類的成效？用GA自訂維度、自訂報表暸解各項指標！ - 翔說什麼](https://shian.tw/article/1696)
 * [javascript - gtag not sending custom dimensions for events - Stack Overflow](https://stackoverflow.com/questions/48120557/gtag-not-sending-custom-dimensions-for-events/48189202#48189202)
+* [看懂GA報表前，你不可不知道的Google Analytics維度與指標 | awoo](https://www.awoo.com.tw/blog/ga-dimensions-metrics/)
+* [GA自訂維度的應用 分類之下的文章成效 - Google - Let's Write](https://letswrite.tw/ga-custom-dimension/)
